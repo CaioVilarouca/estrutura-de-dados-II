@@ -2,12 +2,16 @@
 <project version="4">
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8875c69b-7f13-4db9-87da-9acbab14dfa5" name="Changes" comment="" />
+    <list default="true" id="8875c69b-7f13-4db9-87da-9acbab14dfa5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Termial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Termial.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/caio/projetc  c++",
+    "last_opened_file_path": "/home/caio/Estrutura-de-Dados",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +74,7 @@
       <workItem from="1755707282349" duration="13000" />
       <workItem from="1755707561967" duration="96000" />
       <workItem from="1755818640694" duration="15000" />
+      <workItem from="1758037725032" duration="47000" />
     </task>
     <servers />
   </component>
