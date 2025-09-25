@@ -23,6 +23,15 @@ int factorial(int number) {
         return sum;
     }
 }
+// Expo
+int exponencial(int base, int expo) {
+    if (expo == 0)
+        return 1;
+    else if (expo == 1)
+        return base;
+    else 
+        return  exponencial( base,  expo-1) * base;
+}
 int main() {
     int number1, number2; 
     printf("Informe 1 valor: ");
@@ -31,5 +40,7 @@ int main() {
     scanf("%d", &number2);
     printf("A soma de %d e %d = %d \n", number1, number2, sum(number1, number2));
     termial(number1);
-    printf("\nFatorial %d", factorial(number1));
+    printf("\nFatorial %d \n", factorial(number1));
+    printf(" %d", exponencial(number1, number2));
+
 }
